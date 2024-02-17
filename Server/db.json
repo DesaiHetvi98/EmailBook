@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "a0689b17-8f55-4d1d-ac12-b4ff2fe2b3e2",
+      "name": "Hetvi",
+      "email": "hd@gmail.com"
+    },
+    {
+      "id": "203b63cf-c954-4534-aa19-8129f10cf6fa",
+      "name": "Desaiiii",
+      "email": "d@gmail.com"
+    },
+    {
+      "id": "704a66f3-3f7d-4d52-aee9-b02e79ed360a",
+      "name": "UTA",
+      "email": "uta@mavs.uta.edu"
+    },
+    {
+      "id": "8245a630-a227-4419-ae38-e9950de975f3",
+      "name": "Exam",
+      "email": "e@outlook.com"
+    }
+  ]
+}
